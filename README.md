@@ -47,7 +47,7 @@ The dashboard collect the following information in each chart:
 - Kgs CO2 2022 vs 2023: Barchar comparing the same month of different years. 
 - Kgs CO2 - Top 5 users: The top 5 users that have generated more trips and, for instance, more compensation by each company
 
-LINK TO TABLEAU
+[LINK TO TABLEAU](https://tableau.cabify.com/#/site/cabify/views/CB4CO2ParentCliente/Dashboard12_1?:iid=5)
 
 ## **Insights:**
 
