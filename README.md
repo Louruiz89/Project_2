@@ -17,6 +17,17 @@ At the moment, holdings are facing the following issues:
 
 The dashboard that I've designed is solving both issues at the same time. On one side, it generates the data of a specific holding and, on the other hand, it presents the Kgs of CO2 in different situations requested by clients. 
 
+## **Mockup:**
+
+First Version:
+
+![mockup1](https://github.com/Louruiz89/Project_2/assets/123680936/da092f94-d4f8-49ab-8da0-f103bb57669f)
+
+Second Version:
+
+![mockup2](https://github.com/Louruiz89/Project_2/assets/123680936/d7fae294-56b4-457e-bf97-efc5c7ce64d3)
+
+
 ## **Data Model:**
 
 ![_CO2 Compensated](https://github.com/Louruiz89/Project_2/assets/123680936/c602e844-f196-4b4b-b2d1-34e378e31dee)
